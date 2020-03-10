@@ -6,4 +6,5 @@
   * [战时](ya-xian-shi-ji/zhan-shi.md)
   * [歌](ya-xian-shi-ji/ge.md)
 * [无声告白](wu-sheng-gao-bai.md)
+* [解忧杂货店](jie-you-za-huo-dian.md)
 
