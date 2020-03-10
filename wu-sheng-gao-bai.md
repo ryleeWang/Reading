@@ -1,8 +1,12 @@
 ---
-description: 伍绮诗
+description: '[美] 伍绮诗'
 ---
 
 # 无声告白
+
+{% hint style="info" %}
+随感
+{% endhint %}
 
 这是一个怪异的家庭，父母是勇士，却总是在败退。
 
