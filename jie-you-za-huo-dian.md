@@ -1,12 +1,12 @@
 ---
-description: '[日] 东野圭吾'
+description: 东野圭吾【著】
 ---
 
 # 解忧杂货店
 
-{% hint style="info" %}
-随感
-{% endhint %}
+## 摘抄
+
+## 随感
 
 这是一个关于自省、聆听、真诚、救赎和爱的故事。
 
