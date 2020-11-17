@@ -1,6 +1,6 @@
 # Table of contents
 
-* [我的真理](README.md)
+* [心声](README.md)
 * [痖弦诗集](ya-xian-shi-ji/README.md)
   * [战时](ya-xian-shi-ji/zhan-shi.md)
   * [歌](ya-xian-shi-ji/ge.md)
