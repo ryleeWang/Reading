@@ -8,6 +8,6 @@
 * [解忧杂货店](jie-you-za-huo-dian.md)
 * [无声告白](wu-sheng-gao-bai.md)
 * [哲学家们都干了些什么](zhe-xue-jia-men-du-gan-le-xie-shen-me.md)
-* [通往权力之路](tong-wang-quan-li-zhi-lu.md)
+* [通往权力之路——撒切尔夫人自传](tong-wang-quan-li-zhi-lu.md)
 * [毛姆自传](mao-mu-zi-chuan.md)
 
