@@ -1,5 +1,9 @@
 # 哲学家们都干了些什么
 
+{% hint style="info" %}
+记录相关的哲学家及书籍
+{% endhint %}
+
 ## 哲学家
 
 <table>
